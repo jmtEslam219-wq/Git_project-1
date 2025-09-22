@@ -167,12 +167,12 @@
 }
 .hero-title {
     text-align: center;
-   padding-top: 100px;
-   font-size: 42px;
+   padding-top: 90px;
+   font-size: 45px;
 }
 .hero-space{
-    width: 70px;
-    height: 2px;
+    width: 75px;
+    height: 3px;
     background-color: blue;
     margin: auto;
     margin-top: 5px;
@@ -183,7 +183,7 @@
 }
 .website-parent{
    overflow: auto;
-   margin-top: 100px;
+   margin-top: 130px;
 }
 .website-div{
     width: 30%;
@@ -741,7 +741,7 @@
     margin: auto;
 }
 .News-parent{
-    margin-top: 50PX;
+    margin-top: 65PX;
 }
 .News-div{
     float: left;
@@ -786,7 +786,7 @@
 }
 .News-fi{
     font-size: 19px;
-    color: #314edc;
+    color: #1034e7;
     margin: 15px 0px 0px 20px;
 }
 .News-fi1{
