@@ -207,8 +207,8 @@
     left: 0;
     border-radius: 10px;
     background-color: black;
-    opacity: 1;
-    transition: 0.4s;
+    opacity: 0;
+    transition: 0.6s;
 }
 .website-div:hover::after{
     width: 100%;
